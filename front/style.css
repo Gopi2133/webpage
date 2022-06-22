@@ -1,0 +1,21 @@
+.nav{background-color:rgba(138, 138, 138, 0.77);
+    height:44px;
+overflow=hidden;}
+.nav a{ font-size:21px;
+font-family:Arial;
+padding:22px;
+text-decoration:none;
+color:black;}
+.nav a:hover{background-color:rgb(255, 189, 186);}
+.nav-r{float:right;
+color:black;
+text text-decoration:none;}
+body{background-image:url(back1.jpg);
+background-size:1460px 800px;
+background-repeat:no-repeat;
+background-position:center;}
+.back h1{font: size 45px;
+font-family:"Rockwell";
+color:white;
+margin-left:24px;
+background-color:rgb(255, 68, 0);}
